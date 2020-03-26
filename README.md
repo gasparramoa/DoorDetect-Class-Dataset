@@ -18,7 +18,7 @@ The dataset has 468 closed door images, 588 open door images and 150 semi-open d
 This subdataset is divided in two parts, "Original Size" and "Cropped". The original size has the images with the original size (480 x 640) and the cropped divisions has the same images but cropped acording to the location of the door and door frame. 
 
 ## Link to dataset
-Link [here](https://storage.googleapis.com/openimages/web/index.html)
+Link [here](https://drive.google.com/drive/folders/1iSrPjO-F2aaB7MmsN7tsU1wnLtnO3euK?usp=sharing)
 
 
 ## Data Structure
