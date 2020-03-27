@@ -86,3 +86,17 @@ Door Detection & Classification Dataset
         * Closed
         * Open
         * Semi-open   
+       
+ ## Citation
+ If you use this dataset, please cite:
+```
+ @InProceedings{icarsc2020,
+  author = {João Gaspar Ramôa and Luís A. Alexandre and Sandra Mogo},
+  title = {Real-Time 3D Door Detection and Classification on a Low-Power Device},
+  booktitle = {20th IEEE International Conference on Autonomous Robot
+Systems and Competitions (ICARSC 2020)},
+  year = {2020},
+  address = {Azores, Portugal},
+  month = {April}
+}
+```
