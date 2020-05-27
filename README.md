@@ -24,7 +24,7 @@ Link [here](https://drive.google.com/drive/folders/1iSrPjO-F2aaB7MmsN7tsU1wnLtnO
 
 
 ## Intrinsic matrix (pixels)
-width: 640, height: 480
+width: 640, height: 480 \
 ppx(cx): 319.226, ppy(cy): 242.138, fx: 384.681, fy:384.681, s: 0
 
 
